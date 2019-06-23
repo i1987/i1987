@@ -155,7 +155,7 @@
 - [OTHER：Zookeeper部署](notebook/10-OTHER/OTHER：Zookeeper部署.md )
 
 ### 十一、K8S
-- [K8S：源码解析-kubectl](notebook/11-K8S/K8S：源码解析-kubectl.md )
+- [K8S：源码解析-kubectl](notebook/11-K8S/K8S：源码解析-kubectl.org )
 
 
 ---
